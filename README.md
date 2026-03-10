@@ -1,0 +1,2 @@
+# embodied_learning_roadmap
+具身智能VLA模型学习路线代码存档
